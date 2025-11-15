@@ -1,4 +1,6 @@
-# 🎮 Endless Runner Game - Complete Enhancement Summary
+# Contributing - Enhancement Summary
+
+> **Note:** This file contains the complete list of enhancements and improvements made to this Endless Runner game.
 
 ## ✅ What Has Been Done
 

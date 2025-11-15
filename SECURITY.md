@@ -1,4 +1,6 @@
-# Quick Setup Guide - New UI Features
+# Security - Quick Setup Guide
+
+> **Note:** This guide contains step-by-step instructions for setting up the enhanced UI features.
 
 ## 🚀 Quick Start
 
@@ -110,7 +112,6 @@
 
 4. **Use in Code:**
    ```csharp
-   // Play effects from anywhere:
    ParticleEffectManager.instance.PlayCoinCollectEffect(transform.position);
    ParticleEffectManager.instance.PlayPowerupEffect(transform.position);
    ```

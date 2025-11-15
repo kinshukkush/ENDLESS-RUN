@@ -3,10 +3,14 @@
 <div align="center">
 
 [![Unity Version](https://img.shields.io/badge/Unity-2019.3+-blue.svg)](https://unity3d.com/get-unity/download)
-[![Documentation](https://img.shields.io/badge/docs-complete-brightgreen.svg)](QUICK_SETUP_GUIDE.md)
-[![Enhancement Summary](https://img.shields.io/badge/enhancements-view%20all-orange.svg)](ENHANCEMENT_SUMMARY.md)
+[![Documentation](https://img.shields.io/badge/docs-complete-brightgreen.svg)](SECURITY.md)
+[![Enhancement Summary](https://img.shields.io/badge/enhancements-view%20all-orange.svg)](CONTRIBUTING.md)
 
-**📖 [Enhancement Summary](ENHANCEMENT_SUMMARY.md) • 🚀 [Quick Setup Guide](QUICK_SETUP_GUIDE.md) • 📝 [Detailed Improvements](IMPROVEMENTS.md)**
+**📖 [Enhancement Summary](CONTRIBUTING.md) • 🚀 [Quick Setup Guide](SECURITY.md)**
+
+> **💡 Tip:** Click the tabs above (Contributing, Security) to access full documentation!
+
+
 
 </div>
 
