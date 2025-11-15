@@ -42,3 +42,19 @@ Plugins.meta
 */Plugins/Editor/JetBrains
 */Plugins/Editor/JetBrains.meta
 adb1.txt
+
+# Exclude binary files that are LFS pointers (causing push issues)
+*.fbx
+*.FBX
+*.png
+*.PNG
+*.jpg
+*.JPG
+*.tga
+*.TGA
+*.psd
+*.PSD
+*.wav
+*.WAV
+*.mp3
+*.MP3
